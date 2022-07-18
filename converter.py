@@ -74,8 +74,8 @@ class Converter(tk.Tk):
 
     def _tab1_components(self):
         content = tk.StringVar(value="""
-        Con todo el amor para mi persona favorita.
-        C \u2764 S
+        All rights reserved.
+        Enjoy it!
         """)
         content_lbl = tk.Label(self.tab1, textvariable=content, bg='#FFCBCB', height=3,
                                relief=tk.RAISED, font=("Roman", 14))
