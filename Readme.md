@@ -1,5 +1,8 @@
 # My Converter
 
+Desktop app built with Tkinter. 
+This app includes a calculator, a pressure and a temperature converters.
+
 ## Calculator
 
 ## Pressure Scales Converter
